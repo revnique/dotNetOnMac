@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/doharris/git/csharp/dotNetOnMac/dotNetOnMac.csproj",
+      "projectUniqueName": "/Users/doharris/git/dotNetOnMac/dotNetOnMac.csproj",
       "projectName": "dotNetOnMac",
-      "projectPath": "/Users/doharris/git/csharp/dotNetOnMac/dotNetOnMac.csproj",
+      "projectPath": "/Users/doharris/git/dotNetOnMac/dotNetOnMac.csproj",
       "packagesPath": "/Users/doharris/.nuget/packages/",
-      "outputPath": "/Users/doharris/git/csharp/dotNetOnMac/obj/",
+      "outputPath": "/Users/doharris/git/dotNetOnMac/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

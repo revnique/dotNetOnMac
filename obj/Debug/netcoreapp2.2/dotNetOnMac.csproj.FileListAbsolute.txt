@@ -1,0 +1,11 @@
+/Users/doharris/git/dotNetOnMac/bin/Debug/netcoreapp2.2/dotNetOnMac.deps.json
+/Users/doharris/git/dotNetOnMac/bin/Debug/netcoreapp2.2/dotNetOnMac.runtimeconfig.json
+/Users/doharris/git/dotNetOnMac/bin/Debug/netcoreapp2.2/dotNetOnMac.runtimeconfig.dev.json
+/Users/doharris/git/dotNetOnMac/bin/Debug/netcoreapp2.2/dotNetOnMac.dll
+/Users/doharris/git/dotNetOnMac/bin/Debug/netcoreapp2.2/dotNetOnMac.pdb
+/Users/doharris/git/dotNetOnMac/obj/Debug/netcoreapp2.2/dotNetOnMac.csprojAssemblyReference.cache
+/Users/doharris/git/dotNetOnMac/obj/Debug/netcoreapp2.2/dotNetOnMac.csproj.CoreCompileInputs.cache
+/Users/doharris/git/dotNetOnMac/obj/Debug/netcoreapp2.2/dotNetOnMac.AssemblyInfoInputs.cache
+/Users/doharris/git/dotNetOnMac/obj/Debug/netcoreapp2.2/dotNetOnMac.AssemblyInfo.cs
+/Users/doharris/git/dotNetOnMac/obj/Debug/netcoreapp2.2/dotNetOnMac.dll
+/Users/doharris/git/dotNetOnMac/obj/Debug/netcoreapp2.2/dotNetOnMac.pdb
