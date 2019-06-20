@@ -4,6 +4,7 @@ namespace dotNetOnMac
 {
     class Program
     {
+        //https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/run
         //call "dotnet run"
         static void Main(string[] args)
         {
